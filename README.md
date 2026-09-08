@@ -2,8 +2,6 @@
 
 ### Young enthusiast of cybersecurity and new technology
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rs777-me&label=Profile views&color=0e75b6&style=flat" /> </p>
-
 - 🔭 I'm currently working on **Homelab Project **
 
 - 📫 How to reach me **rs998@pm.me**

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jordan P.
 
-### Young enthusiast of cybersecurity and new technology
+### Young keen of cybersecurity and new technology
 
 - 🔭 I'm currently working on **Homelab Project **
 

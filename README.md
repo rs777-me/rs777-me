@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Homelab Project **
 
-- 📫 How to reac me **contact@whodunit.me**
+- 📫 How to reach me **contact@whodunit.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
